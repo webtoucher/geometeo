@@ -14,7 +14,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=5.6.0",
     "webtoucher/geometeo-libs": "dev-master"
   },
   "autoload": {
